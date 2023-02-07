@@ -1,4 +1,5 @@
 import light from '../image/light.svg'
+import dark from '../image/dark.svg'
 const Content =()=>{
     return(
         <main>
